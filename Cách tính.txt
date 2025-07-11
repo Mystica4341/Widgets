@@ -1,0 +1,2 @@
+1 Collumn = tương đương 1 điểm (đếm từ 0)
+tại vị trí hình đâu tiên (x, y) là (0, 0)
